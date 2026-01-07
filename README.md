@@ -1,7 +1,7 @@
 <h1 align="center">Miguel Mochizuki Silva</h1>
 
 <p align="center">
-  <strong>Computer Science Undergraduate · Machine Learning · Computer Vision · Multimodal AI</strong>
+  <strong>Computer Science · Machine Learning · Computer Vision · Multimodal AI</strong>
 </p>
 
 <p align="center">
@@ -12,97 +12,50 @@
 
 ---
 
-## About Me
+### About
 
-I am a Computer Science undergraduate at the **Federal University of Paraíba (UFPB)** with a strong background in mathematics, algorithms, and software engineering.  
+Computer Science undergraduate at **UFPB**.  
+Working with **Machine Learning**, **Computer Vision**, and **Multimodal AI**, with a strong foundation in mathematics and algorithms.
 
-My work focuses on **AI and Machine Learning**, especially in research-oriented and applied settings.
-
-I am interested in environments that value **technical rigor, experimentation, and reproducible research**.
-
----
-
-## Research & Experience
-
-### Research Scientist — ARIA / UFPB *(2025–Present)*
-
-- Developing computer vision models for **gaze tracking in surgical videos** and pattern recognition in multimodal imaging.
-- Fine-tuning **SORT-based tracking algorithms**, including automated hyperparameter search.
-- Contributing to **vision-language and decision-support system pipelines**.
-
-### Machine Learning Intern — Tail / UFPB *(2025–Present)*
-
-- Working on applied ML and data science projects focused on real-world business problems.
-- Collaborating on model development, data analysis, and experimental workflows.
-
-### Junior Researcher — PIBIC-EM / CNPq *(2022–2023)*
-
-- Conducted research in **Partial Differential Equations and Geometric Analysis**.
-- Awarded the **Young Researcher Prize** at XXXI ENIC (UFPB).
+Interested in **research-driven** and **applied ML** environments that value rigor and reproducibility.
 
 ---
 
-## Projects
+### Experience
 
-### RISC-V Student Pack
+- **Research Scientist — ARIA / UFPB** *(2025–Present)*  
+  Computer vision for gaze tracking in surgical videos, multimodal imaging, and vision-language systems.
 
-- Built a **RISC-V assembler and emulator from scratch in C**.
-- Implemented automated unit testing using shell scripting to ensure correctness and reliability.
+- **Machine Learning Intern — Tail / UFPB** *(2025–Present)*  
+  Applied ML and data analysis for real-world problems.
 
----
-
-## Technical Skills
-
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,bash" />
-</p>
-
-### Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,react,docker,git,linux" />
-</p>
-
-**Domains:**  
-Computer Vision · Deep Learning · Multimodal AI · Algorithm Design · Software Engineering
+- **Junior Researcher — PIBIC-EM / CNPq** *(2022–2023)*  
+  Research in PDEs and Geometric Analysis · Young Researcher Prize (CNPq).
 
 ---
 
-## Education
+### Projects
 
-- **B.Sc. in Computer Science** — Federal University of Paraíba (UFPB), *2025–Present*
-- **MITx — Single Variable Calculus (18.01x)**, *2021–2022*
+- **Handwriting Recognition**  
+  Deep learning system for handwritten character and word recognition.  
+  🔗 https://github.com/AlbertNewton254/handwriting-recognition
 
----
-
-## Awards
-
-- **Young Researcher Prize (CNPq)** — 2023
-
----
-
-## Languages
-
-- Portuguese — Native  
-- English — Advanced  
-- Spanish — Intermediate  
-- French — Basic  
+- **RISC-V Student Pack**  
+  RISC-V assembler and emulator implemented in C, with automated tests.  
+  🔗 https://github.com/AlbertNewton254/riscv-student-pack
 
 ---
 
-## GitHub Activity
+### Tech
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlbertNewton254&show_icons=true&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,bash,pytorch,fastapi,react,docker,git,linux" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertNewton254&layout=compact&hide_border=true" />
-</p>
+**Domains:** Computer Vision · Deep Learning · Multimodal AI · Algorithms · Software Engineering
 
 ---
 
 <p align="center">
-  <em>Open to research collaborations, internships, and applied AI/ML projects.</em>
+  <em>Open to research collaborations and ML/AI projects.</em>
 </p>
-
