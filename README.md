@@ -41,7 +41,7 @@ Interested in **research-driven** and **applied ML** environments that value rig
   🔗 https://github.com/AlbertNewton254/handwriting-recognition
 
 - **RISC-V Student Pack**  
-  RISC-V assembler and emulator implemented in C, with automated tests.  
+  RISC-V assembler and emulator implemented in C/C++, with automated tests.  
   🔗 https://github.com/AlbertNewton254/riscv-student-pack
 
 ---
